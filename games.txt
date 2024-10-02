@@ -1,11 +1,3 @@
-0.0.0.0	clickspeedtest.com
-0.0.0.0	cpstest.org
-0.0.0.0	uwufufu.com
-0.0.0.0	watchdocumentaries.com
-0.0.0.0	symbaloo.com
-0.0.0.0	fancade.com
-0.0.0.0	turbowarp.org
-0.0.0.0	kizi.cm
 0.0.0.0	01-casino.com
 0.0.0.0	01-chase.com
 0.0.0.0	01-topsites.com
@@ -217,6 +209,7 @@
 0.0.0.0	adamo.nastypixel.com
 0.0.0.0	addfan.com
 0.0.0.0	addictingdressup.com
+0.0.0.0	addictinggames.com
 0.0.0.0	addictive247.co.uk
 0.0.0.0	addictojeux.com
 0.0.0.0	addink.net
@@ -555,6 +548,7 @@
 0.0.0.0	armacwm.fullboards.com
 0.0.0.0	armageddon.org
 0.0.0.0	armataducale.altervista.org
+0.0.0.0	armorgames.com
 0.0.0.0	armory.mmo-champion.com.nyud.net
 0.0.0.0	armyconquer.net
 0.0.0.0	armyduel.com
@@ -881,6 +875,7 @@
 0.0.0.0	boredatwork.net
 0.0.0.0	boredbro.com
 0.0.0.0	boredbutton.com
+0.0.0.0	boredpanda.com
 0.0.0.0	borne-arcade.com
 0.0.0.0	borsspillet.dk
 0.0.0.0	bosskiller.fr.st
@@ -928,6 +923,7 @@
 0.0.0.0	brutality.fr
 0.0.0.0	bshooter.com
 0.0.0.0	btmux.com
+0.0.0.0	bubble shooter.net
 0.0.0.0	bubble-shooter.biz
 0.0.0.0	bubble-shooter.fr
 0.0.0.0	bubblebox.com
@@ -1190,6 +1186,7 @@
 0.0.0.0	clickjogos.uol.com.br
 0.0.0.0	clickmazes.com
 0.0.0.0	clickshoot.fr
+0.0.0.0	clickspeedtest.com
 0.0.0.0	clipplay.com
 0.0.0.0	cliquojeux.com
 0.0.0.0	clockworkmonster.com
@@ -1266,6 +1263,7 @@
 0.0.0.0	cooljeu.com
 0.0.0.0	cooljuegos.com
 0.0.0.0	coolkindergarten.com
+0.0.0.0	coolmathgames.com
 0.0.0.0	coolom.com
 0.0.0.0	coolrom.com
 0.0.0.0	coreconcepts.com
@@ -1303,6 +1301,7 @@
 0.0.0.0	cowboysandengines.com
 0.0.0.0	cowboystown.com
 0.0.0.0	cpmstar.com
+0.0.0.0	cpstest.org
 0.0.0.0	cpx-ads.de
 0.0.0.0	crad.visualdeer.com
 0.0.0.0	craftclue.rocks
@@ -1314,7 +1313,10 @@
 0.0.0.0	crazy-orc.org
 0.0.0.0	crazyawesomeyeah.com
 0.0.0.0	crazybone.com
+0.0.0.0	crazygames.br
+0.0.0.0	crazygames.com
 0.0.0.0	crazyjeux.com
+0.0.0.0	crazymonkeygames.com
 0.0.0.0	crazymonkeys.com
 0.0.0.0	creativo.fr
 0.0.0.0	creaturz.com
@@ -1896,6 +1898,7 @@
 0.0.0.0	eotl.org
 0.0.0.0	epic-war.net
 0.0.0.0	epicadventures.8m.net
+0.0.0.0	epicbrowsergames.org
 0.0.0.0	epicbundle.com
 0.0.0.0	eponagirl.deviantart.com
 0.0.0.0	eq2.ogaming.com
@@ -2001,8 +2004,10 @@
 0.0.0.0	familysweeps.net
 0.0.0.0	famobi.com
 0.0.0.0	famousarcade.com
+0.0.0.0	famousgamesonline.net
 0.0.0.0	fanatical.com
 0.0.0.0	fanatijuegos.com
+0.0.0.0	fancade.com
 0.0.0.0	fandejuegos.com
 0.0.0.0	fandom.com
 0.0.0.0	fanfox.net
@@ -2149,6 +2154,7 @@
 0.0.0.0	flashoyunlar1.com
 0.0.0.0	flashplayer.com
 0.0.0.0	flashplayer.ru
+0.0.0.0	flashplayergames.org
 0.0.0.0	flashportal.com
 0.0.0.0	flashracingonline.com
 0.0.0.0	flashradium.com
@@ -2376,6 +2382,7 @@
 0.0.0.0	funny-base.com
 0.0.0.0	funnyflash.widbox.com
 0.0.0.0	funnyfunnyq.blogspot.com
+0.0.0.0	funnygames.org
 0.0.0.0	funnypart.com
 0.0.0.0	funnyville.com
 0.0.0.0	funorb.com
@@ -2452,6 +2459,12 @@
 0.0.0.0	gamaverse.com
 0.0.0.0	gambas.de
 0.0.0.0	gambling-gazette.com
+0.0.0.0	gamefools.com
+0.0.0.0	gamepix.com
+0.0.0.0	gamerparadise.co
+0.0.0.0	games.co.uk
+0.0.0.0	gamesloon.com
+0.0.0.0	gamezhero.net
 0.0.0.0	gamies.com
 0.0.0.0	gamigo.com
 0.0.0.0	gamigo.de
@@ -2886,6 +2899,7 @@
 0.0.0.0	homestarrunner.com
 0.0.0.0	homm5.info
 0.0.0.0	honfoglalo.hu
+0.0.0.0	hoodamath.com
 0.0.0.0	hop-go.ru
 0.0.0.0	hopkinsfbi.com
 0.0.0.0	hopy.com
@@ -4035,6 +4049,7 @@
 0.0.0.0	juegosfull.com
 0.0.0.0	juegosfun.com
 0.0.0.0	juegosgo.com
+0.0.0.0	juegosgratis.es
 0.0.0.0	juegosgt.com
 0.0.0.0	juegosguays.es
 0.0.0.0	juegosinc.com
@@ -4275,7 +4290,9 @@
 0.0.0.0	kizi-jeux.com
 0.0.0.0	kizi-mizi.pl
 0.0.0.0	kizi.cc
+0.0.0.0	kizi.cm
 0.0.0.0	kizi.com
+0.0.0.0	kizi.games
 0.0.0.0	kizi.info
 0.0.0.0	kizi.me.uk
 0.0.0.0	kizi.name
@@ -5546,6 +5563,8 @@
 0.0.0.0	onlinecollege1199.info
 0.0.0.0	onlinecollegechanges.info
 0.0.0.0	onlinegambling.lv
+0.0.0.0	onlinegameszone.net
+0.0.0.0	onlinegamez247.net
 0.0.0.0	onlinegamingz.com
 0.0.0.0	onlineguru.ru
 0.0.0.0	onlinehry.1w.sk
@@ -5759,6 +5778,8 @@
 0.0.0.0	petanque52.com
 0.0.0.0	petitbacenligne.net
 0.0.0.0	petitlion.com
+0.0.0.0	pfofgames2.netlify.app
+0.0.0.0	pfogames.com
 0.0.0.0	phantom-quest.com
 0.0.0.0	phantomcastle.it
 0.0.0.0	phantomempire.com
@@ -5902,6 +5923,7 @@
 0.0.0.0	playground.ctp-design.net
 0.0.0.0	playhacked.com
 0.0.0.0	playhearthstone.com
+0.0.0.0	playhop.com
 0.0.0.0	playhry.sk
 0.0.0.0	playhub.com
 0.0.0.0	playingline.com
@@ -6004,6 +6026,7 @@
 0.0.0.0	pokertexasomaha.com
 0.0.0.0	pokertodo.com
 0.0.0.0	pokeyplay.com
+0.0.0.0	poki.com
 0.0.0.0	poki.com.br
 0.0.0.0	poki.de
 0.0.0.0	poki.it
@@ -6567,6 +6590,7 @@
 0.0.0.0	shoe-lover.fr
 0.0.0.0	shootclub.com
 0.0.0.0	shooter-bubble.de
+0.0.0.0	shootinggameszone.net
 0.0.0.0	shop.phantasialand.de
 0.0.0.0	shopatvalve.com
 0.0.0.0	shot-online.de
@@ -6582,6 +6606,7 @@
 0.0.0.0	sillybull.com
 0.0.0.0	silver-world.net
 0.0.0.0	silvercrk.com
+0.0.0.0	silvergames.com
 0.0.0.0	silverwolf-den.com
 0.0.0.0	sim-outhouse.com
 0.0.0.0	sim-pet.com
@@ -6825,6 +6850,7 @@
 0.0.0.0	spil.pift.dk
 0.0.0.0	spilbyen.dk
 0.0.0.0	spilcloud.com
+0.0.0.0	spilgames.com
 0.0.0.0	spill.start.no
 0.0.0.0	spillboden.com
 0.0.0.0	spillher.no
@@ -7081,6 +7107,7 @@
 0.0.0.0	sydlexia.com
 0.0.0.0	syfaria.com
 0.0.0.0	sylvaniah.com
+0.0.0.0	symbaloo.com
 0.0.0.0	symuon.com
 0.0.0.0	synoree.com
 0.0.0.0	systemwars.com
@@ -7239,6 +7266,7 @@
 0.0.0.0	thefrown.com
 0.0.0.0	thefunkygibbon.net
 0.0.0.0	thefunstuff.org
+0.0.0.0	thegamevault.org
 0.0.0.0	thegamingrip.com
 0.0.0.0	thegeekpage.com
 0.0.0.0	theglobalgaming.com
@@ -7490,6 +7518,7 @@
 0.0.0.0	turbojuegos.info
 0.0.0.0	turbonuke.com
 0.0.0.0	turbotanks.com
+0.0.0.0	turbowarp.org
 0.0.0.0	turf-fr.com
 0.0.0.0	turf-pronostics.com
 0.0.0.0	turnarcade.com
@@ -7504,6 +7533,8 @@
 0.0.0.0	twitch.com
 0.0.0.0	twitch.tv
 0.0.0.0	twizl.com
+0.0.0.0	two-player-games.org
+0.0.0.0	twoplayergames.org
 0.0.0.0	tycoononline.nu
 0.0.0.0	tynker.com
 0.0.0.0	typingclub.com
@@ -7583,6 +7614,7 @@
 0.0.0.0	usunblock.host
 0.0.0.0	uvscg.free.fr
 0.0.0.0	uweb.webzzanine.net
+0.0.0.0	uwufufu.com
 0.0.0.0	uzinagaz.com
 0.0.0.0	v-schlachtfeld.net
 0.0.0.0	v2w.org
@@ -7768,6 +7800,7 @@
 0.0.0.0	watchanimevideo.com
 0.0.0.0	watchbreakingbadonline.com
 0.0.0.0	watchcartoonsonline.eu
+0.0.0.0	watchdocumentaries.com
 0.0.0.0	watchepisodes.immunicity.world
 0.0.0.0	watchepisodes.usbypass.faith
 0.0.0.0	watchepisodes.usbypass.men
@@ -8026,6 +8059,7 @@
 0.0.0.0	yakeo.com
 0.0.0.0	yamago.net
 0.0.0.0	yandex.com
+0.0.0.0	yandex.ru/games/
 0.0.0.0	yankme.com
 0.0.0.0	yaoi-eien.forumsactifs.com
 0.0.0.0	yatsha.com
