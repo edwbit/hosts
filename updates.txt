@@ -1,5 +1,12 @@
-0.0.0.0	13.107.246.73
-0.0.0.0	40.70.76.27
-0.0.0.0	52.152.180.150
-0.0.0.0	40.70.77.148
-0.0.0.0	4.154.131.237
+0.0.0.0	windowsupdate.microsoft.com 
+0.0.0.0	download.windowsupdate.com 
+0.0.0.0	download.microsoft.com 
+0.0.0.0	wustat.windows.com
+0.0.0.0	go.microsoft.com
+0.0.0.0 dl.delivery.mp.microsoft.com
+0.0.0.0 update.microsoft.com
+0.0.0.0 windowsupdate.com
+0.0.0.0 ntservicepack.microsoft.com
+0.0.0.0 stats.microsoft.com
+0.0.0.0 emdl.ws.microsoft.com
+0.0.0.0 dl.delivery.mp.microsoft.com
