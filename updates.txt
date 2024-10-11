@@ -10,3 +10,6 @@
 0.0.0.0 stats.microsoft.com
 0.0.0.0 emdl.ws.microsoft.com
 0.0.0.0 dl.delivery.mp.microsoft.com
+0.0.0.0 client.wns.windows.com
+0.0.0.0 adl.windows.com
+0.0.0.0 msftconnecttest.com
