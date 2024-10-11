@@ -21,5 +21,6 @@
 0.0.0.0 kv801.prod.do.dsp.mp.microsoft.com
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 v10.events.data.microsoft.com
+0.0.0.0 slscr.update.microsoft.com
 
 
