@@ -13,3 +13,9 @@
 0.0.0.0 client.wns.windows.com
 0.0.0.0 adl.windows.com
 0.0.0.0 msftconnecttest.com
+0.0.0.0 array805.prod.do.dsp.mp.microsoft.com
+0.0.0.0 fe2cr.update.microsoft.com
+0.0.0.0 fe3cr.delivery.mp.microsoft.com
+0.0.0.0 mobile.events.data.microsoft.com
+
+
