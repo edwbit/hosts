@@ -17,5 +17,7 @@
 0.0.0.0 fe2cr.update.microsoft.com
 0.0.0.0 fe3cr.delivery.mp.microsoft.com
 0.0.0.0 mobile.events.data.microsoft.com
+0.0.0.0 array813.prod.do.dsp.mp.microsoft.com
+0.0.0.0 kv801.prod.do.dsp.mp.microsoft.com
 
 
