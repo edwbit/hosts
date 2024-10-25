@@ -22,5 +22,14 @@
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 v10.events.data.microsoft.com
 0.0.0.0 slscr.update.microsoft.com
+0.0.0.0 adobe.com
+0.0.0.0 adobe.io
+0.0.0.0 adobeaemcloud.com
+0.0.0.0 licensing.adobe.com
+0.0.0.0 activate.adobe.com
+0.0.0.0 prereg.adobe.com
+0.0.0.0 cloud.acrobat.com
+0.0.0.0 cloud.adobe.com
+0.0.0.0 services.adobe.com
 
 
